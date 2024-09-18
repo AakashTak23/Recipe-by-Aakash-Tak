@@ -1,1 +1,1 @@
-# Recipe-by-Aakash-Tak
+Ill be making a simple website contating recipe of different kinds. It will show my ability of creating tiles, heading, images, links, merging them and linking relatively to different pages.
