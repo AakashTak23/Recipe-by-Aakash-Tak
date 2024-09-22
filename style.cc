@@ -1,0 +1,3 @@
+* {
+    bachground color : black;
+    }
