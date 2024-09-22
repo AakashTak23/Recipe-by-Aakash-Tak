@@ -1,3 +1,3 @@
-* {
-    bachground color : black;
+*{
+    bachground color:black;
     }
