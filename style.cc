@@ -1,3 +1,3 @@
-*{
-    bachground color:black;
+body {
+    background-color:black;
     }
